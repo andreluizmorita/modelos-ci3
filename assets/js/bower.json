@@ -1,0 +1,23 @@
+{
+  "name": "Hotel Plus",
+  "authors": [
+    "Andre Morita <andreluizmorita@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#^4.5.0",
+    "jquery": "^2.2.2",
+    "bootstrap": "^3.3.6"
+  }
+}
